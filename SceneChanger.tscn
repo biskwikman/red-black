@@ -11,7 +11,7 @@ tracks/0/loop_wrap = true
 tracks/0/imported = false
 tracks/0/enabled = true
 tracks/0/keys = {
-"times": PoolRealArray( 0, 1 ),
+"times": PoolRealArray( 0, 0.4 ),
 "transitions": PoolRealArray( 1, 1 ),
 "update": 0,
 "values": [ Color( 0, 0, 0, 0 ), Color( 0, 0, 0, 1 ) ]
@@ -28,6 +28,8 @@ margin_bottom = 40.0
 modulate = Color( 0, 0, 0, 0 )
 anchor_right = 1.0
 anchor_bottom = 1.0
+margin_right = 781.0
+margin_bottom = 771.0
 color = Color( 0, 0, 0, 1 )
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
